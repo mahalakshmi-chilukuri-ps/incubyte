@@ -1,4 +1,4 @@
- function addNumbers(numbers) {
+ export function addNumbers(numbers) {
 
     // return 0 when imput is empty
     if (!numbers) return 0;
